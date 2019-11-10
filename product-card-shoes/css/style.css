@@ -38,6 +38,7 @@ body {
   height: 200px;
   background-size: cover;
   background-position: center;
+  transition: .6s linear;
 }
 
 .product-colors {
